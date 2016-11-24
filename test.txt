@@ -1,1 +1,3 @@
 测试文本
+
+Creating a new branch is quick AND simple. 这是在feature1分支加入的
