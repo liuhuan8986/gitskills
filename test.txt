@@ -1,1 +1,3 @@
 测试文本
+
+Creating a new branch is quick & simple. 这是在master分支加入的
